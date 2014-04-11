@@ -1,4 +1,11 @@
-## Laravel PHP Framework
+##Laravel Real TIme Chat
+
+Follwing tutorial as found on 
+Laravel 4 Real Time Chat
+A Comprehensive Tutorial
+ByChristopher Pitt in Laravel 4 Tutorials
+
+Linl: https://medium.com/laravel-4/eaa550829538### Laravel PHP Framework
 
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/version.png)](https://packagist.org/packages/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.png)](https://packagist.org/packages/laravel/framework) [![Build Status](https://travis-ci.org/laravel/framework.png)](https://travis-ci.org/laravel/framework)
 
